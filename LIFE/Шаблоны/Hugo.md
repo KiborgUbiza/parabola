@@ -1,2 +1,3 @@
 type::
 - [ ] learn English
+- [ ] Python
