@@ -1,5 +1,3 @@
-[[]]
-
 Parol.   |  Parlor 
 -------------------------------
 qiDmu4-tixkud-necxov  | Avito
