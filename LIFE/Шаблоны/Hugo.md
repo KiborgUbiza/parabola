@@ -1,3 +1,3 @@
-type:: 
-no_sugar::
-
+type::
+- [ ] learn English
+- [ ] Python
