@@ -1,0 +1,1 @@
+[Приложение «RoughAnimator - animation app» — App Store](https://apps.apple.com/us/app/roughanimator-animation-app/id954718244?l=ru)
